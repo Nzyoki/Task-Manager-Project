@@ -1,1 +1,2 @@
 Test
+\n i am trying to create a conflict
